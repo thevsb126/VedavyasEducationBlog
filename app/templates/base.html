@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% if title %}
+    <title>{{ title }} - Vedhavyas Education Blog</title>
+    {% else %}
+    <title>Vedhavyas Education Blog</title>
+    {% endif %}
+</head>
+<body>
+    <div>Vedhavyas Education Blog: <a href="/index">Home</a></div>
+    <hr>
+    {% block content %}{% endblock %}
+</body>
+</html>
