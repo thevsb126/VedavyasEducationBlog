@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="891c5f56-b3b8-401b-a865-499e20f543e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vehs.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,9 +63,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="898" y="188" key="SettingsEditor" timestamp="1588596713759">
+    <state x="991" y="101" width="912" height="898" key="CommitChangelistDialog2" timestamp="1588603815939">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="898" y="188" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1588596713759" />
+    <state x="991" y="101" width="912" height="898" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1588603815939" />
+    <state x="1234" y="311" width="424" height="478" key="FileChooserDialogImpl" timestamp="1588657227720">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1234" y="311" width="424" height="478" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1588657227720" />
+    <state x="734" y="191" key="SettingsEditor" timestamp="1588664159019">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="734" y="191" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1588664159019" />
   </component>
 </project>
